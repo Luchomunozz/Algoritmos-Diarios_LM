@@ -1,0 +1,13 @@
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\bin\Debug\netcoreapp3.1\Algoritmo 19.exe
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\bin\Debug\netcoreapp3.1\Algoritmo 19.deps.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\bin\Debug\netcoreapp3.1\Algoritmo 19.runtimeconfig.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\bin\Debug\netcoreapp3.1\Algoritmo 19.runtimeconfig.dev.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\bin\Debug\netcoreapp3.1\Algoritmo 19.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\bin\Debug\netcoreapp3.1\Algoritmo 19.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\obj\Debug\netcoreapp3.1\Algoritmo 19.csproj.AssemblyReference.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\obj\Debug\netcoreapp3.1\Algoritmo 19.AssemblyInfoInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\obj\Debug\netcoreapp3.1\Algoritmo 19.AssemblyInfo.cs
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\obj\Debug\netcoreapp3.1\Algoritmo 19.csproj.CoreCompileInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\obj\Debug\netcoreapp3.1\Algoritmo 19.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\obj\Debug\netcoreapp3.1\Algoritmo 19.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 19\Algoritmo 19\obj\Debug\netcoreapp3.1\Algoritmo 19.genruntimeconfig.cache

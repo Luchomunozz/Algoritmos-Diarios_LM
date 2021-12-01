@@ -1,0 +1,13 @@
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\bin\Debug\netcoreapp3.1\Algoritmo 3.exe
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\bin\Debug\netcoreapp3.1\Algoritmo 3.deps.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\bin\Debug\netcoreapp3.1\Algoritmo 3.runtimeconfig.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\bin\Debug\netcoreapp3.1\Algoritmo 3.runtimeconfig.dev.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\bin\Debug\netcoreapp3.1\Algoritmo 3.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\bin\Debug\netcoreapp3.1\Algoritmo 3.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\obj\Debug\netcoreapp3.1\Algoritmo 3.csproj.AssemblyReference.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\obj\Debug\netcoreapp3.1\Algoritmo 3.AssemblyInfoInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\obj\Debug\netcoreapp3.1\Algoritmo 3.AssemblyInfo.cs
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\obj\Debug\netcoreapp3.1\Algoritmo 3.csproj.CoreCompileInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\obj\Debug\netcoreapp3.1\Algoritmo 3.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\obj\Debug\netcoreapp3.1\Algoritmo 3.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 3\Algoritmo 3\obj\Debug\netcoreapp3.1\Algoritmo 3.genruntimeconfig.cache

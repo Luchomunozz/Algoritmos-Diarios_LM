@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo 20", "Algoritmo 20\Algoritmo 20.csproj", "{B4BBB1A5-375A-4E4E-9C64-3211AFC4ABC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4BBB1A5-375A-4E4E-9C64-3211AFC4ABC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BBB1A5-375A-4E4E-9C64-3211AFC4ABC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BBB1A5-375A-4E4E-9C64-3211AFC4ABC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BBB1A5-375A-4E4E-9C64-3211AFC4ABC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70722D4F-5C0E-42AA-9D24-EB584B103C48}
+	EndGlobalSection
+EndGlobal

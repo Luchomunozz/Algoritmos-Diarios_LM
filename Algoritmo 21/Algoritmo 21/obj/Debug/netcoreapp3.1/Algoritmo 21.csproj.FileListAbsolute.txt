@@ -1,0 +1,13 @@
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\bin\Debug\netcoreapp3.1\Algoritmo 21.exe
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\bin\Debug\netcoreapp3.1\Algoritmo 21.deps.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\bin\Debug\netcoreapp3.1\Algoritmo 21.runtimeconfig.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\bin\Debug\netcoreapp3.1\Algoritmo 21.runtimeconfig.dev.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\bin\Debug\netcoreapp3.1\Algoritmo 21.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\bin\Debug\netcoreapp3.1\Algoritmo 21.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\obj\Debug\netcoreapp3.1\Algoritmo 21.csproj.AssemblyReference.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\obj\Debug\netcoreapp3.1\Algoritmo 21.AssemblyInfoInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\obj\Debug\netcoreapp3.1\Algoritmo 21.AssemblyInfo.cs
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\obj\Debug\netcoreapp3.1\Algoritmo 21.csproj.CoreCompileInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\obj\Debug\netcoreapp3.1\Algoritmo 21.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\obj\Debug\netcoreapp3.1\Algoritmo 21.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 21\Algoritmo 21\obj\Debug\netcoreapp3.1\Algoritmo 21.genruntimeconfig.cache

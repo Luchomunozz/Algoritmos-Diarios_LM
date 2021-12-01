@@ -1,0 +1,13 @@
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\bin\Debug\netcoreapp3.1\Algoritmo 9.exe
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\bin\Debug\netcoreapp3.1\Algoritmo 9.deps.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\bin\Debug\netcoreapp3.1\Algoritmo 9.runtimeconfig.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\bin\Debug\netcoreapp3.1\Algoritmo 9.runtimeconfig.dev.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\bin\Debug\netcoreapp3.1\Algoritmo 9.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\bin\Debug\netcoreapp3.1\Algoritmo 9.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\obj\Debug\netcoreapp3.1\Algoritmo 9.csproj.AssemblyReference.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\obj\Debug\netcoreapp3.1\Algoritmo 9.AssemblyInfoInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\obj\Debug\netcoreapp3.1\Algoritmo 9.AssemblyInfo.cs
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\obj\Debug\netcoreapp3.1\Algoritmo 9.csproj.CoreCompileInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\obj\Debug\netcoreapp3.1\Algoritmo 9.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\obj\Debug\netcoreapp3.1\Algoritmo 9.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 9\Algoritmo 9\obj\Debug\netcoreapp3.1\Algoritmo 9.genruntimeconfig.cache

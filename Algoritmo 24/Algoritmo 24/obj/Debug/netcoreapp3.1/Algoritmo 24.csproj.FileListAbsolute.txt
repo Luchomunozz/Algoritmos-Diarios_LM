@@ -1,0 +1,13 @@
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\bin\Debug\netcoreapp3.1\Algoritmo 24.exe
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\bin\Debug\netcoreapp3.1\Algoritmo 24.deps.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\bin\Debug\netcoreapp3.1\Algoritmo 24.runtimeconfig.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\bin\Debug\netcoreapp3.1\Algoritmo 24.runtimeconfig.dev.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\bin\Debug\netcoreapp3.1\Algoritmo 24.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\bin\Debug\netcoreapp3.1\Algoritmo 24.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\obj\Debug\netcoreapp3.1\Algoritmo 24.csproj.AssemblyReference.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\obj\Debug\netcoreapp3.1\Algoritmo 24.AssemblyInfoInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\obj\Debug\netcoreapp3.1\Algoritmo 24.AssemblyInfo.cs
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\obj\Debug\netcoreapp3.1\Algoritmo 24.csproj.CoreCompileInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\obj\Debug\netcoreapp3.1\Algoritmo 24.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\obj\Debug\netcoreapp3.1\Algoritmo 24.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 24\Algoritmo 24\obj\Debug\netcoreapp3.1\Algoritmo 24.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\bin\Debug\netcoreapp3.1\Algoritmo 16.exe
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\bin\Debug\netcoreapp3.1\Algoritmo 16.deps.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\bin\Debug\netcoreapp3.1\Algoritmo 16.runtimeconfig.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\bin\Debug\netcoreapp3.1\Algoritmo 16.runtimeconfig.dev.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\bin\Debug\netcoreapp3.1\Algoritmo 16.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\bin\Debug\netcoreapp3.1\Algoritmo 16.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\obj\Debug\netcoreapp3.1\Algoritmo 16.csproj.AssemblyReference.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\obj\Debug\netcoreapp3.1\Algoritmo 16.AssemblyInfoInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\obj\Debug\netcoreapp3.1\Algoritmo 16.AssemblyInfo.cs
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\obj\Debug\netcoreapp3.1\Algoritmo 16.csproj.CoreCompileInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\obj\Debug\netcoreapp3.1\Algoritmo 16.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\obj\Debug\netcoreapp3.1\Algoritmo 16.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 16\Algoritmo 16\obj\Debug\netcoreapp3.1\Algoritmo 16.genruntimeconfig.cache

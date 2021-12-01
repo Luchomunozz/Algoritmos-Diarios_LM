@@ -1,0 +1,13 @@
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\obj\Debug\netcoreapp3.1\Algoritmo 20.csproj.AssemblyReference.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\obj\Debug\netcoreapp3.1\Algoritmo 20.AssemblyInfoInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\obj\Debug\netcoreapp3.1\Algoritmo 20.AssemblyInfo.cs
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\obj\Debug\netcoreapp3.1\Algoritmo 20.csproj.CoreCompileInputs.cache
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\bin\Debug\netcoreapp3.1\Algoritmo 20.exe
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\bin\Debug\netcoreapp3.1\Algoritmo 20.deps.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\bin\Debug\netcoreapp3.1\Algoritmo 20.runtimeconfig.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\bin\Debug\netcoreapp3.1\Algoritmo 20.runtimeconfig.dev.json
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\bin\Debug\netcoreapp3.1\Algoritmo 20.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\bin\Debug\netcoreapp3.1\Algoritmo 20.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\obj\Debug\netcoreapp3.1\Algoritmo 20.dll
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\obj\Debug\netcoreapp3.1\Algoritmo 20.pdb
+C:\Users\lucho\Desktop\Algoritmos LMMA\Algoritmo 20\Algoritmo 20\obj\Debug\netcoreapp3.1\Algoritmo 20.genruntimeconfig.cache
